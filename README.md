@@ -1,4 +1,4 @@
 zimt-eiNSAtz-cookbook
 =====================
 
-Bearbeitung des Cookbooks
+Bearbeitung des Cookbook
